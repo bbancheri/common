@@ -24,6 +24,14 @@ Column 1 | Column 2 |
 | item | item |
 
 
+
+Column 1 | Column 2 | Column 3 |  Column 4
+| :---: | :---: | :---: | :---:
+| item | ![image](https://) | ![image](https://) | ![image](https://)
+**Column 1** | **Column 2** | **Column 3** | **Column 4**
+| ![image](https://) | ![image](https://) | ![image](https://) | ![image](https://)
+
+
 Key Concepts words
 --
 * one
